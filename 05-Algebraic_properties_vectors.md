@@ -1,4 +1,4 @@
- Algebraic Properties of Vectors
+ # Algebraic Properties of Vectors
 
     Commutative (vector) P + Q = Q + P
     Associative (vector) (P + Q) + R = P + (Q + R)
