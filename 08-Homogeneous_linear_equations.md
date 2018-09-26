@@ -14,4 +14,4 @@
 
 ![eop](https://wikimedia.org/api/rest_v1/media/math/render/svg/5e85b2d4c03909f8388d6424de28d27870977972)
 
-  - Parametric vector form of a plane
+  
