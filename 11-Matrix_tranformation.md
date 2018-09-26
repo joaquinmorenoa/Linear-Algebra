@@ -21,7 +21,7 @@ Given an m*n matrix A, we can define function T: R^n -> R^m, by the rule T(x)=Ax
  Consider, ![s](https://wikimedia.org/api/rest_v1/media/math/render/svg/08209f34d4a2b3d48cb8da610aabe60f411d3fff)
  
  where, m is real number.
- 
- example ![ex](https://www.tutorialspoint.com/computer_graphics/images/y_shear.jpg)
+
+![ex](https://www.tutorialspoint.com/computer_graphics/images/y_shear.jpg)
  
  
