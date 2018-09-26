@@ -10,3 +10,7 @@ Let A be an m*n matrix. Then the following statements are logically equivalent:
   - the matrix A has a pivot in every row.
   
 The Row-Vector Rule, to solve Ax.
+
+Algebraic Properties:
+  - A(u+v) = Av + Au
+  - A(const.u) = const.(Au)
