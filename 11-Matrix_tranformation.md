@@ -22,6 +22,6 @@ Given an m*n matrix A, we can define function T: R^n -> R^m, by the rule T(x)=Ax
  
  where, m is real number.
  
- example ![ex](https://en.wikipedia.org/wiki/Shear_mapping#/media/File:Academ_Study_about_a_periodic_tiling_by_regular_polygons.svg)
+ example ![ex](https://www.tutorialspoint.com/computer_graphics/images/y_shear.jpg)
  
  
