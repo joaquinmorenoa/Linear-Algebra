@@ -1,8 +1,8 @@
-Multiplying a Matrix with a vector
+# Multiplying a Matrix with a vector
 
 ![m](http://cs.brown.edu/stc/summer/94GeoTrans/94GeoTrans_AFrame_168.gif)
 
-Theorem:
+### Theorem:
 Let A be an m*n matrix. Then the following statements are logically equivalent:
   - for each 'b' in R^m, the equation Ax = b has a solution.
   - each 'b'b in R^m is a linear combinatioin of the columns of A.
@@ -11,6 +11,6 @@ Let A be an m*n matrix. Then the following statements are logically equivalent:
   
 The Row-Vector Rule, to solve Ax.
 
-Algebraic Properties:
+### Algebraic Properties:
   - A(u+v) = Av + Au
   - A(const.u) = const.(Au)
