@@ -62,3 +62,20 @@ If A = {{a,b},{c,d}} and ad-bcdoesnt equal zero, then A is invertible and
 A^1 = 1/ad-bc * {{d,-b},{-c,a}}
 ```
 
+### Elementary Matrix
+
+An elementary matrix is one that is obtainedby performing elementary row opertions on an identity matrix.
+
+If an eleentary row operation is performed on matrix A, then the result can be written as EA whenre matrix E is elementary matrix created by performing the sae opertion on I.
+
+Since row operations are reversible, elementary matrices are invertible.
+
+THe inverse of an elementary matrix E is the elementary matrix of the same type that transforms E back from  I.
+
+##### Theorem
+
+if nxn matrix A is invertible if and only if  A is row equivalent of In. In this case, sequence of row operations that reduces A to In also transofrms In into A^-1.
+
+##### Finding A^-1
+
+Row reduce the augmented matrix [A I]. If A is row equivalent to I then [A I] is row equilanet to [I A^-1]
